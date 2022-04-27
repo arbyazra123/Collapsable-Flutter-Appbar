@@ -2,6 +2,9 @@
 
 A Flutter App which contains Collapsable Appbar with Search
 
+https://user-images.githubusercontent.com/40289741/165557691-122fc1df-60d1-4af1-b6a0-b37fce511eb0.MP4
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
