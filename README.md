@@ -1,6 +1,6 @@
 # custom_appbar
 
-A new Flutter project.
+A Flutter App which contains Collapsable Appbar with Search
 
 ## Getting Started
 
